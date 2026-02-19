@@ -1,4 +1,4 @@
-const futureDate = new Date("Feb 19, 2026 16:57:59")
+const futureDate = new Date("Feb 27, 2026 23:59:59")
 const targetDate = futureDate.getTime()
 
 setInterval(() => {
